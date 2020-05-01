@@ -18,14 +18,15 @@ log.txt
 npm-debug.log*
 
 /.idea
-/.ionic
-/.sass-cache
-/.sourcemaps
-/.versions
-/.vscode
-/coverage
-/dist
-/node_modules
-/platforms
-/plugins
-/www
+*/.ionic
+*/.sass-cache
+*/.sourcemaps
+*/.versions
+*/.vscode
+*/coverage
+*/dist
+*/node_modules
+*/platforms
+*/plugins
+*/www
+/lib
